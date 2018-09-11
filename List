@@ -1,0 +1,6 @@
+site:target.com -www
+site:target.com intitle:”test” -support
+site:target.com ext:php | ext:html
+site:subdomain.target.com
+site:target.com inurl:auth
+site:target.com inurl:dev
